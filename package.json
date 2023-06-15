@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mockoon/serverless": "^3.0.0"
+  }
+}
